@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391646243345",
+    "project_id": "hcastick",
+    "storage_bucket": "hcastick.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391646243345:android:45b4a4d6cbabad15b09fb0",
+        "android_client_info": {
+          "package_name": "com.example.hcastick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf4ZjN3LM3SIPhcgoww7oVycfKQCLsvJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

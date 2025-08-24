@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hcastick",
+          "appId": "1:391646243345:android:45b4a4d6cbabad15b09fb0",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hcastick",
+          "configurations": {
+            "android": "1:391646243345:android:45b4a4d6cbabad15b09fb0",
+            "web": "1:391646243345:web:d29fe9ba5261a0d8b09fb0"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
